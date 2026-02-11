@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Настройка HiDOM",
+        "description": "Введите IP-адрес вашего устройства HiDOM",
+        "data": {
+          "host": "IP-адрес"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Не удалось подключиться к устройству",
+      "unknown": "Произошла неизвестная ошибка"
+    },
+    "abort": {
+      "already_configured": "Устройство уже настроено"
+    }
+  }
+}

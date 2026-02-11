@@ -1,0 +1,13 @@
+{
+  "domain": "hidom",
+  "name": "HiDOM (Hisense Multi-IDU)",
+  "version": "2.0.0",
+  "icon": "hass:air-conditioner",
+  "documentation": "https://github.com/undrianov-dot/hidom",
+  "issue_tracker": "https://github.com/undrianov-dot/hidom/issues",
+  "codeowners": ["@undrianov-dot"],
+  "requirements": ["aiohttp>=3.8.0"],
+  "iot_class": "local_polling",
+  "config_flow": true,
+  "integration_type": "hub"
+}

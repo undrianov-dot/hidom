@@ -1,0 +1,1 @@
+"""Platforms module for HiDOM."""
