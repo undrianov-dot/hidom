@@ -1,7 +1,7 @@
 {
   "domain": "hidom",
   "name": "HiDOM (Hisense Multi-IDU)",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "codeowners": ["@undrianov-dot"],
   "requirements": ["aiohttp>=3.8.0"],
   "iot_class": "local_polling",
@@ -11,3 +11,4 @@
   "integration_type": "hub",
   "dependencies": []
 }
+
