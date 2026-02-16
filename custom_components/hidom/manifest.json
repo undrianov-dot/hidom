@@ -1,6 +1,6 @@
 {
   "domain": "hidom",
-  "name": "HiDOM (Hisense Multi-IDU)",
+  "name": "HiDOM",
   "version": "2.1.0",
   "codeowners": ["@undrianov-dot"],
   "requirements": ["aiohttp>=3.8.0"],
@@ -11,4 +11,5 @@
   "integration_type": "hub",
   "dependencies": []
 }
+
 
