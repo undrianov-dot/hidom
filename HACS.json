@@ -1,8 +1,6 @@
 {
   "name": "HiDOM (Hisense Multi-IDU)",
-  "content_in_root": false,
   "render_readme": true,
   "domains": ["hidom"],
-  "homeassistant": "2023.1.0",
-  "iot_class": "Local Polling"
+  "homeassistant": "2023.0.0"
 }
