@@ -1,5 +1,5 @@
 {
-  "name": "HiDOM (Hisense Multi-IDU)",
+  "name": "HiDOM",
   "render_readme": true,
   "domains": ["hidom"],
   "homeassistant": "2023.0.0"
