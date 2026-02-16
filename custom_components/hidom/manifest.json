@@ -9,8 +9,9 @@
   "documentation": "https://github.com/undrianov-dot/hidom",
   "issue_tracker": "https://github.com/undrianov-dot/hidom/issues",
   "integration_type": "hub",
- 
+  "quality_scale": "silver"
 }
+
 
 
 
